@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Backend API Development",
+    "description": "Develop REST API using Express.js",
+    "status": "pending",
+    "priority": "high",
+    "assignee": "Ahmet",
+    "createdAt": "2026-11-09T10:00:00.000Z",
+    "updatedAt": "2026-11-09T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Database Design",
+    "description": "Design the database structure",
+    "status": "in_progress",
+    "priority": "medium",
+    "assignee": "Mehmet",
+    "createdAt": "2026-11-09T11:00:00.000Z",
+    "updatedAt": "2026-11-09T11:00:00.000Z"
+  }
+]
